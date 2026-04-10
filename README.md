@@ -10,6 +10,8 @@ I work with Solid.js, React, Node.js, and Python most days.
 
 [**LDOC**](https://github.com/arismoko/LDOC) - A plain-text DSL that compiles to DOCX for legal documents. I wrote the whole compiler pipeline in TypeScript (lexer, parser, binder, emitter), added embedded Lua expressions, and built an LSP with completions, diagnostics, and go-to-definition. This one got out of hand in the best way.
 
+[**Playmat**](https://github.com/arismoko/playmat) - Cockatrice in the browser. Multiplayer Magic: The Gathering tabletop built with React and PartyKit. Deck building, card zones, and real-time sync in the browser.
+
 [**ARIS-Language**](https://github.com/arismoko/ARIS-Language) - A Lua-inspired scripting language that transpiles to C#. My first real crack at language design.
 
 ## Game dev roots
