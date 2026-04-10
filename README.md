@@ -6,7 +6,7 @@ I work with Solid.js, React, Node.js, and Python most days.
 
 ## What I'm working on
 
-[**buddy.nvim**](https://github.com/arismoko/buddy.nvim) - MCP server for Neovim. You write tools in Lua and they work as both MCP tools and native Neovim plugins. Turns out bridging editors to LLM agents is a fun problem.
+[**buddy.nvim**](https://github.com/arismoko/buddy.nvim) - MCP server for Neovim. You write tools in Lua and they work as both MCP tools and native Neovim plugins.
 
 [**LDOC**](https://github.com/arismoko/LDOC) - A plain-text DSL that compiles to DOCX for legal documents. I wrote the whole compiler pipeline in TypeScript (lexer, parser, binder, emitter), added embedded Lua expressions, and built an LSP with completions, diagnostics, and go-to-definition. This one got out of hand in the best way.
 
