@@ -12,8 +12,4 @@ I work with Solid.js, React, Node.js, and Python most days.
 
 [**ARIS-Language**](https://github.com/arismoko/ARIS-Language) - A Lua-inspired scripting language that transpiles to C#. My first real crack at language design.
 
-## Game dev roots
-
 [**Phish Food**](https://arismoko.itch.io/phish-food) - Hand-drawn platformer I built in Unity for SEAJAM. Dynamic music, story-driven, rated 4/5.
-
-**Doki Office Man** - Chaotic top-down shooter for the One Minute Game Jam. I modeled everything in Blender and made the music in FL Studio.
