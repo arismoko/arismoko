@@ -6,4 +6,4 @@
 
 [**Playmat**](https://github.com/arismoko/playmat) - Cockatrice in the browser. Multiplayer Magic: The Gathering tabletop built with React and PartyKit. Deck building, card zones, and real-time sync in the browser.
 
-[**Phish Food**](https://arismoko.itch.io/phish-food) - Hand-drawn platformer I built in Unity for SEAJAM. Dynamic music, story-driven, rated 4/5.
+[**Phish Food**](https://arismoko.itch.io/phish-food) - Hand-drawn platformer I built in Unity for SEAJAM. Dynamic music, story-driven.
