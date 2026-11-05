@@ -1,7 +1,3 @@
-# Hey, I'm Aria
-
-i make stuff
-
 ## What I'm working on
 
 [**buddy.nvim**](https://github.com/arismoko/buddy.nvim) - MCP server for Neovim. You write tools in Lua and they work as both MCP tools and native Neovim plugins.
