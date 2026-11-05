@@ -1,6 +1,6 @@
 # Hey, I'm Aria
 
-I work with Solid.js, React, Node.js, and Python most days.
+i make stuff
 
 ## What I'm working on
 
